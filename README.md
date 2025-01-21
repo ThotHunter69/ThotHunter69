@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThotHunter69
+- 👋 Hi, I’m @Erik B
 - 👀 I’m interested in hardware construction and backend software development. 
 - 🌱 I’m currently learning Python, Html5 and CSS.
 - 💞️ I’m looking to collaborate on nothing atm :)
